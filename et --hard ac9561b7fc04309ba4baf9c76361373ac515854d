@@ -1,0 +1,158 @@
+[33mcommit 17f6405b21e373860a2067eccca1ebee3a0e6879[m[33m ([m[1;36mHEAD -> [m[1;32mtirtha[m[33m, [m[1;31morigin/tirtha[m[33m)[m
+Merge: c12e440e ac9561b7
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Thu Dec 4 03:01:30 2025 +0600
+
+    Resolved merge conflicts
+
+[33mcommit c12e440e2dbaff778099703bec274f21ab8861ac[m
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Thu Dec 4 02:56:38 2025 +0600
+
+    Pushing files to main branch
+
+[33mcommit ac9561b7fc04309ba4baf9c76361373ac515854d[m
+Author: Pranesh Majumder Tirtha <108365775+praneshtirtha@users.noreply.github.com>
+Date:   Thu Dec 4 00:02:54 2025 +0600
+
+    Add files via upload
+
+[33mcommit eb83ecb1a78267445792e74bd30f86906cd2d6eb[m
+Author: Pranesh Majumder Tirtha <108365775+praneshtirtha@users.noreply.github.com>
+Date:   Thu Dec 4 00:01:09 2025 +0600
+
+    Update admindashboard.php
+
+[33mcommit ed1c33fbd1370a129fe30ba4679338de7bbb0990[m
+Author: Pranesh Majumder Tirtha <108365775+praneshtirtha@users.noreply.github.com>
+Date:   Thu Dec 4 00:00:44 2025 +0600
+
+    Update adminlogin.php
+
+[33mcommit 254fcb4b54af5a75c10d7c42f5399092a4d44385[m
+Author: Pranesh Majumder Tirtha <108365775+praneshtirtha@users.noreply.github.com>
+Date:   Thu Dec 4 00:00:11 2025 +0600
+
+    Add files via upload
+
+[33mcommit a6415ca5c2eed42de12d21b66eb3807e4793e207[m
+Author: Pranesh Majumder Tirtha <108365775+praneshtirtha@users.noreply.github.com>
+Date:   Wed Dec 3 15:37:42 2025 +0600
+
+    Add files via upload
+
+[33mcommit d4e71dd8d7f7c6cf298b697715272530c828c17e[m
+Author: Pranesh Majumder Tirtha <pranesh.tirtha@northsouth.edu>
+Date:   Wed Dec 3 15:05:03 2025 +0600
+
+    Add admin login page
+
+[33mcommit 4dbe5ac1b95eaa5e982697e6f709dc2828b5702c[m
+Author: Pranesh Majumder Tirtha <pranesh.tirtha@northsouth.edu>
+Date:   Wed Dec 3 15:01:56 2025 +0600
+
+    Add initial core project structure and PHP pages
+
+[33mcommit 5c161db5a09f7e7aee5000edbb41a44a59be189c[m
+Author: nawarorpa <nawarorpa19@gmail.com>
+Date:   Mon Dec 1 16:31:08 2025 +0600
+
+    game4
+    
+    game4
+
+[33mcommit b45deac06aa362ccc84340465860e9033b594de3[m
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Mon Dec 1 16:27:35 2025 +0600
+
+    Create CSE327_Lecture_15_MMA1.pptx (1).ppt
+    
+    dsd
+
+[33mcommit 831e7655628c3f1f07e9ebd5d7e7fb01a69083e0[m
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Mon Dec 1 16:07:16 2025 +0600
+
+    Create CSE327-Course Outline-1.pdf
+    
+    New file added
+
+[33mcommit 687843c4395e1842bb39cacf31f27f9fd889c38b[m
+Author: nawarorpa <149897894+nawarorpa@users.noreply.github.com>
+Date:   Wed Nov 19 13:35:19 2025 +0600
+
+    Add files via upload
+
+[33mcommit d864bd10200e2f94e35d8348618e0fdff6ec2395[m
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Tue Nov 18 05:01:22 2025 +0600
+
+    Architectural-Design
+    
+    Architectural design pushed and final
+
+[33mcommit 9191d9aaac155a9865c1b874bf21c4916f88ebbb[m
+Author: nawarorpa <149897894+nawarorpa@users.noreply.github.com>
+Date:   Sat Nov 15 01:51:06 2025 +0600
+
+    meetings
+
+[33mcommit fbbadfc23e2ad43da19944efe0148b0f2794061a[m
+Author: nawarorpa <149897894+nawarorpa@users.noreply.github.com>
+Date:   Fri Nov 14 22:44:12 2025 +0600
+
+    Add files via upload
+
+[33mcommit c661bb5b161e33aeed70bedc60a8d7d40796c8fe[m
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Wed Nov 12 22:44:26 2025 +0600
+
+    SDS Document
+    
+    SDS Document
+
+[33mcommit c0bde1b1fb7ec2b293ab6cb400f42de13a71deef[m
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Tue Nov 11 04:55:29 2025 +0600
+
+    SDS Documents
+    
+    pusing sds documents
+
+[33mcommit 468c5548219580804aededb5e2aa5903d262942f[m
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Mon Oct 20 23:57:27 2025 +0600
+
+    SRS, documentation tool, codin Standard final push
+    
+    final push srs and other
+
+[33mcommit 75628a8522b2ee5ae819dd46280db394d71da3bd[m
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Mon Oct 20 19:49:46 2025 +0600
+
+    Added new file
+    
+    added all
+
+[33mcommit c93a8eb5053ddbf21ee14a69c36f76d3f2cdb7cd[m
+Author: Md Nasim Taif <138335544+Nasim-Taif@users.noreply.github.com>
+Date:   Mon Oct 20 19:45:40 2025 +0600
+
+    Delete New DOC Document.doc
+    
+    dfgfgf
+
+[33mcommit de24d73b18a3d6dad7b86499b351d7ddccf4686f[m
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Mon Oct 20 19:44:45 2025 +0600
+
+    adfad
+    
+    fadfad
+
+[33mcommit 8300b2be58e809c90c8f76ad1d4d720ea6997106[m
+Author: NasimTaif <nasimtaif999@gmail.com>
+Date:   Mon Oct 20 19:41:56 2025 +0600
+
+    Clean history
