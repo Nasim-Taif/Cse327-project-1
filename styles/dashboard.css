@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.game-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
+
+.game-card {
+    width: 300px;
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    transition: 0.3s;
+    text-decoration: none;
+    color: black;
+}
+
+.game-card:hover {
+    transform: scale(1.05);
+}
+
+.game-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.game-card .title {
+    padding: 15px;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    background: #fafafa;
+}
+
+.logout {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.logout a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #d9534f;
+}
