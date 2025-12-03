@@ -1,6 +1,0 @@
-{
-    "name": "dell/cse327-project-1",
-    "require-dev": {
-        "phpdocumentor/phpdocumentor": "^3.9"
-    }
-}
